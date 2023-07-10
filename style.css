@@ -15,11 +15,11 @@ body {
 
 h1 {
     font-size: 60px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 p {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 a.button {
@@ -38,10 +38,82 @@ a.button {
     margin-right: 200px;
     margin-bottom: 35px;
     font-size: 18px;
+    color: white;
 }
 
 .heding {
     padding-top: 90px;
     margin-left: 220px;
     margin-right: 220px;
+    color: white;
+}
+
+.flexiable-responsive {
+    display: flex;
+
+
+}
+
+.flexiable-responsive1 {
+    width: 20%;
+    text-align: center;
+}
+
+.flexiable-responsive2 {
+    width: 20%;
+    border: 1px solid red;
+    text-align: center;
+    padding: 7px;
+    border-radius: 7px;
+    color: red;
+    background: #e5d6d6;
+}
+
+.flexiable-responsive3 {
+    width: 20%;
+    text-align: center;
+}
+
+.flexiable-responsive4 {
+    width: 20%;
+    text-align: center;
+}
+
+.flexiable-responsive5 {
+    width: 20%;
+    text-align: center;
+}
+
+.Donate {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+input.inputext1 {
+    padding: 16px;
+}
+
+.donatepadd {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+input.inputext1 {
+    padding: 16px;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 1px;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 35px !IMPORTANT;
+}
+
+a.button2 {
+    text-decoration: none;
+    padding: 17px;
+    background: red;
+    color: white;
 }
