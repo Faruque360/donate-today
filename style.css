@@ -117,3 +117,52 @@ a.button2 {
     background: red;
     color: white;
 }
+
+.iconsectionwidht1 {
+    width: 30%;
+}
+
+.iconsectionwidht2 {
+    width: 30%;
+}
+
+.iconsectionwidht3 {
+    width: 30%;
+}
+
+.disl {
+    display: flex;
+    padding: 30px;
+}
+
+.iconsectionwidht1 {
+    width: 30%;
+    padding: 15px;
+    background: #ffc4c4;
+    margin-left: 3%;
+    color: white;
+}
+
+.iconsectionwidht2 {
+    width: 30%;
+    padding: 15px;
+    background: #535883;
+    margin-left: 3%;
+    color: white;
+}
+
+.iconsectionwidht3 {
+    width: 30%;
+    padding: 15px;
+    background: #c268a4;
+    margin-left: 3%;
+    color: white;
+}
+
+.section1234 {
+    display: flex;
+}
+
+.half-widht {
+    width: 50%;
+}
